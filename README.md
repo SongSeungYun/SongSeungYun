@@ -4,7 +4,7 @@ Backend Developer
 ---
 
 ### About Me
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)]([VELOGLINK](https://velog.io/@songseungggg/posts))
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)]((https://velog.io/@songseungggg/posts))
 
 ---
 
@@ -24,8 +24,7 @@ Backend Developer
 ---
 
 ### Contact
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:singsong9984@gmail.com)
-
+📧 Email: singsong9984@gmail.com
 ---
 
 ### Algorithm
